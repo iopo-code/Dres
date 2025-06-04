@@ -12,5 +12,6 @@
     ],
     "include": [],
     "entrypoint": "main.ts"
-  }
+  },
+  "main": "main.ts"
 }
