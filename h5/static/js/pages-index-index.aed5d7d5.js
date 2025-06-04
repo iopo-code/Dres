@@ -3141,7 +3141,7 @@ a2_0x4e145f(), (window[a2_0x414849(0x3b2)] = window[a2_0x414849(0x3b2)] || [])['
 								'id': 0x63,
 								'title': _0x314b0e(0x26f),
 								'goFlag': !0x1,
-								'lockFlag': !0x0,
+								'lockFlag': !0x1,
 								'hot': !0x1
 							}])),
 							'flag': !0x1,

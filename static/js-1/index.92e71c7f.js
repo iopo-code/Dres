@@ -3562,7 +3562,7 @@
 			'color': '#FF69B4',
 			'url': _0xd52b63(0x335),
 			'goFlag': !0x1,
-			'lockFlag': !0x0,
+			'lockFlag': !0x1,
 			'hot': !0x1,
 			'sweet': !0x0,
 			'arr': _0x4da39c[_0xd52b63(0x36b)]
@@ -3572,7 +3572,7 @@
 			'color': _0xd52b63(0x414),
 			'url': '/pagesA/chess/chess?mode=13',
 			'goFlag': !0x1,
-			'lockFlag': !0x0,
+			'lockFlag': !0x1,
 			'hot': !0x1,
 			'love': !0x0,
 			'arr': _0x4da39c[_0xd52b63(0x2af)]
@@ -3582,7 +3582,7 @@
 			'color': _0xd52b63(0x337),
 			'url': _0xd52b63(0x2b1),
 			'goFlag': !0x1,
-			'lockFlag': !0x0,
+			'lockFlag': !0x1,
 			'hot': !0x0,
 			'arr': _0x4da39c[_0xd52b63(0x305)]
 		}, {
@@ -3591,7 +3591,7 @@
 			'color': _0xd52b63(0x1a2),
 			'url': _0xd52b63(0x21c),
 			'goFlag': !0x1,
-			'lockFlag': !0x0,
+			'lockFlag': !0x1,
 			'hot': !0x0,
 			'new': !0x1,
 			'arr': _0x4da39c[_0xd52b63(0x196)]
@@ -3601,7 +3601,7 @@
 			'color': _0xd52b63(0x4bd),
 			'url': _0xd52b63(0x460),
 			'goFlag': !0x1,
-			'lockFlag': !0x0,
+			'lockFlag': !0x1,
 			'hot': !0x0,
 			'arr': _0x4da39c[_0xd52b63(0x529)]
 		}, {
@@ -3610,7 +3610,7 @@
 			'color': _0xd52b63(0x3b7),
 			'url': _0xd52b63(0x53e),
 			'goFlag': !0x1,
-			'lockFlag': !0x0,
+			'lockFlag': !0x1,
 			'hot': !0x0,
 			'arr': _0x4da39c[_0xd52b63(0x157)]
 		}, {
@@ -3619,7 +3619,7 @@
 			'color': '#FF0000',
 			'url': '/pagesA/chess/chess?mode=6',
 			'goFlag': !0x1,
-			'lockFlag': !0x0,
+			'lockFlag': !0x1,
 			'hot': !0x0,
 			'arr': _0x4da39c[_0xd52b63(0x1a8)]
 		}, {
@@ -3628,7 +3628,7 @@
 			'color': '#FFFF00',
 			'url': _0xd52b63(0x2dd),
 			'goFlag': !0x1,
-			'lockFlag': !0x0,
+			'lockFlag': !0x1,
 			'hot': !0x0,
 			'arr': _0x4da39c['SM']
 		}, {
@@ -3637,7 +3637,7 @@
 			'color': _0xd52b63(0x1b1),
 			'url': _0xd52b63(0x548),
 			'goFlag': !0x1,
-			'lockFlag': !0x0,
+			'lockFlag': !0x1,
 			'hot': !0x0,
 			'arr': _0x4da39c[_0xd52b63(0x2e7)]
 		}, {
@@ -3646,7 +3646,7 @@
 			'color': _0xd52b63(0x35c),
 			'url': _0xd52b63(0x1f5),
 			'goFlag': !0x1,
-			'lockFlag': !0x0,
+			'lockFlag': !0x1,
 			'hot': !0x0,
 			'arr': _0x4da39c[_0xd52b63(0x1be)]
 		}, {
@@ -3655,7 +3655,7 @@
 			'color': _0xd52b63(0x552),
 			'url': _0xd52b63(0x3df),
 			'goFlag': !0x1,
-			'lockFlag': !0x0,
+			'lockFlag': !0x1,
 			'hot': !0x0,
 			'new': !0x1,
 			'arr': _0x4da39c[_0xd52b63(0x47d)]
@@ -3665,7 +3665,7 @@
 			'color': _0xd52b63(0x214),
 			'url': '/pagesA/chess/chess?mode=10',
 			'goFlag': !0x1,
-			'lockFlag': !0x0,
+			'lockFlag': !0x1,
 			'hot': !0x0,
 			'arr': [][_0xd52b63(0x238)]((0x0, _0x5c4f57['default'])(_0x4da39c[_0xd52b63(0x428)]), (
 				0x0, _0x5c4f57[_0xd52b63(0x4ea)])(_0x4da39c[_0xd52b63(0x36b)]), (0x0,
